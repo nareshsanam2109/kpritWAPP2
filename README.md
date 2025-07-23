@@ -1,3 +1,6 @@
 # kpritWAPP2
 You can add a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it.
 hi this is naresh tech trainer
+helllooooooooooooo
+hiiiiiiiiiiiiiiii
+how r u
